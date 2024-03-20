@@ -1,6 +1,6 @@
 {
   "name": "onedionys-dom-mutation-observers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (DOM Mutation Observers) - Functions to observe changes in the DOM and respond dynamically, useful for features such as lazy loading or real-time data delivery.",
   "main": "src/domMutationObservers.js",
   "directories": {
